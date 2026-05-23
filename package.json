@@ -1,0 +1,12 @@
+{
+  "name": "vidsnap-bot",
+  "version": "1.0.0",
+  "description": "VidSnap Telegram Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
